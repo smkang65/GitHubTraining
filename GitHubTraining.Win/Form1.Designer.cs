@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Name = "Form1";
-            Text = "GitHubTraining - GitHub 실습";
+            Text = "GitHubTraining - Feature Branch";
             ResumeLayout(false);
         }
 
